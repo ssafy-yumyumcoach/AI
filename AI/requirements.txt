@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+pydantic==1.10.15
+python-multipart==0.0.9
+Pillow==10.3.0
+ultralytics==8.3.240
+PyYAML==6.0.1
